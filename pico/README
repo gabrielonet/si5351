@@ -1,2 +1,2 @@
 It did not work on micropython 1.19 but downgraded to MicroPython v1.18
-The code is note mine , belongs to a japanese Hamradi, gotta 
+The main.py code is not mine , belongs to a japanese Hamradio.  I will modify it instead to respect Rationals aka reverse Euclid numerator and denominator 
